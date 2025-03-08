@@ -7,7 +7,7 @@ This is a simple banking system implemented as a console application. It allows 
 - Print account statements
 
 ## Rules
--- There is no UI and database used here. In the same session only you need to work all above operation.
+- There is no UI and database used here. In the same session only you need to work all above operation.
 
 ## Prerequisites
 - **.NET 8 SDK** 
@@ -17,7 +17,7 @@ This is a simple banking system implemented as a console application. It allows 
 
 ### 1. Clone the Repository or Download the code
 - Open Visual Studio, then Go to Git -> clone repository and enter:
-- https://github.com/your-repo/banking-system.git
+- https://github.com/your-repo/banking-system.git (This is the sample one. You can get the exact repository from email)
 - choose the local folder where you want to save the project
 - click clone
   
@@ -30,5 +30,5 @@ This is a simple banking system implemented as a console application. It allows 
 - Press **F5** and the console application will open
 
 ### 4. Run Unit Test 
--- You can run all test methods in test project and verify the solution is working perfectly.
--- Open Test explorer - click run all test
+- You can run all test methods in test project and verify the solution is working perfectly.
+- Open Test explorer - click run all test
